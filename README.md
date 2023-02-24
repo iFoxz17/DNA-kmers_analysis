@@ -9,10 +9,12 @@ Presi in input un file <code>FASTQ</code> di **reads** di **lunghezza costante**
 * ***F***: soglia di frequenza minima;
 * ***k***: lunghezza dei k-meri
 
+## Output
+***File*** <code>FASTA</code> contente i *reads selezionati* e le loro *qualità medie*.
+
 ## Parametri
 * ***L*** : lunghezza dei reads (costante);
 * ***N*** : numero dei reads
 
-## Output
-***File*** <code>FASTA</code> contente i *reads selezionati* e le loro *qualità medie*.
+
 
